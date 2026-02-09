@@ -9,8 +9,8 @@ Many high-impact products are hard to access, hard to manufacture locally, or lo
 - Reducing duplication by sharing a common registry and licenses.
 - Supporting equitable participation across builders, contributors, and manufacturers.
 
-## 3. The Open Impact Model (TOIL explained simply)
-TOIL (Tools of Impact License) is an open license that protects the intent of public-good designs. In simple terms:
+## 3. The Open Impact Model (Tech4Life Open Impact License (TOIL) v1.0 explained simply)
+Tech4Life Open Impact License (TOIL) v1.0 is an open license that protects the intent of public-good designs. In simple terms:
 - **Open by default**: Designs and documentation are shareable and modifiable.
 - **Impact-aligned**: Use and distribution must support the social benefit purpose.
 - **Traceable**: The origin and changes are recorded to keep the chain of impact clear.
@@ -36,17 +36,16 @@ TOIL (Tools of Impact License) is an open license that protects the intent of pu
 +-----------+------------+
             |
             v
-   +--------+---------+
-   |  TOIL License    |
-   | (open impact     |
-   |  governance)     |
-   +------------------+
+   +-----------------------------------------------------------+
+   | Tech4Life Open Impact License (TOIL) v1.0                 |
+   | (open impact governance)                                  |
+   +-----------------------------------------------------------+
 ```
 
 ## 5. Current Live Components
 - **Products**: The practical outputs designed for real-world use.
 - **Kivai Platform**: The collaboration and lifecycle system for building and improving products.
-- **TOIL License**: The legal framework that keeps the ecosystem open and impact-aligned.
+- **Tech4Life Open Impact License (TOIL) v1.0**: The legal framework that keeps the ecosystem open and impact-aligned.
 - **Product Registry**: The shared source of truth for product definitions and versions.
 
 ## 6. How to Participate

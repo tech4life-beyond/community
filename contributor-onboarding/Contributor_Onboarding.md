@@ -11,7 +11,7 @@ This document defines how individuals enter, integrate, and evolve within Tech4L
 
 The onboarding process ensures:
 - Alignment with Tech4Life values
-- Ethical understanding of TOIL
+- Ethical understanding of Tech4Life Open Impact License (TOIL) v1.0
 - Clarity of expectations
 - Structured access to projects and repositories
 
@@ -63,7 +63,7 @@ Advancement is based on contribution quality, not time.
 ## 4. Onboarding Steps
 
 1. Public review of Tech4Life Foundation
-2. Agreement with TOIL principles
+2. Agreement with Tech4Life Open Impact License (TOIL) v1.0 principles
 3. Initial idea submission or expression of interest
 4. Ethics alignment acknowledgment
 5. Assignment to Observer level
@@ -76,7 +76,7 @@ Advancement is based on contribution quality, not time.
 All contributors must:
 - Use official templates
 - Document contributions transparently
-- Respect TOIL attribution standards
+- Respect Tech4Life Open Impact License (TOIL) v1.0 attribution standards
 - Maintain professional conduct
 
 ---
@@ -113,4 +113,3 @@ By participating in Tech4Life, contributors acknowledge:
 ---
 
 **End of Contributor Onboarding Framework**
-

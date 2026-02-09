@@ -8,6 +8,7 @@
 ## 1. Purpose
 
 This document defines how collaboration operates inside Tech4Life.
+Contributions are governed by Tech4Life Open Impact License (TOIL) v1.0.
 
 It establishes:
 - Operational clarity
@@ -116,4 +117,3 @@ Repeated disregard for process, ethics, or documentation may result in removal f
 ---
 
 **End of Collaboration Rules Framework**
-
