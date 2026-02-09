@@ -48,7 +48,7 @@ Participants must:
 - Credit original contributors
 - Avoid plagiarism
 - Document decisions transparently
-- Respect TOIL attribution standards
+- Respect Tech4Life Open Impact License (TOIL) v1.0 attribution standards
 
 Misrepresentation of authorship is grounds for removal.
 
@@ -128,4 +128,3 @@ By participating in Tech4Life, individuals affirm that:
 ---
 
 **End of Tech4Life Code of Conduct**
-
