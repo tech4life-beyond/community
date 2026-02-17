@@ -25,5 +25,6 @@ jobs:
           args: >
             --verbose
             --no-progress
-            --fail-if-empty=false
+            --format markdown
+            --output lychee-report.md
             **/*.md
