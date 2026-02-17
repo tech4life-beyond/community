@@ -1,0 +1,23 @@
+name: Bug report
+description: Report a problem in docs or onboarding
+title: "bug: "
+labels: ["bug"]
+body:
+  - type: textarea
+    attributes:
+      label: What happened?
+      description: Describe the issue clearly.
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Steps to reproduce
+      description: Steps to reproduce the behavior.
+    validations:
+      required: false
+  - type: textarea
+    attributes:
+      label: Additional context
+      description: Links, screenshots, or notes (no confidential data).
+    validations:
+      required: false
