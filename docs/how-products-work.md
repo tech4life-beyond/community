@@ -1,12 +1,44 @@
 # How Products Work — Tech4Life Product Lifecycle
 
-This document explains how products are created, validated, and licensed inside the Tech4Life ecosystem.
-
-Tech4Life transforms ideas into licensable, ethical, real-world technologies.
+**Navigation**
+- [Home](index.md)
+- [How to Start](how-to-start.md)
+- [How TOIL Works](how-toil-works.md)
 
 ---
 
-# Overview
+This page explains how Tech4Life transforms ideas into licensable, ethical, real-world technologies.
+
+---
+
+## Ecosystem Map (Repositories)
+
+Core repositories:
+
+- community — portal and collaboration
+  - https://github.com/tech4life-beyond/community
+
+- products — Product Packs
+  - https://github.com/tech4life-beyond/products
+
+- product-creation-pipeline — pack validation
+  - https://github.com/tech4life-beyond/product-creation-pipeline
+
+- product-registry — canonical product index
+  - https://github.com/tech4life-beyond/product-registry
+
+- toil — license standard
+  - https://github.com/tech4life-beyond/toil
+
+- tlos — OS principles and governance
+  - https://github.com/tech4life-beyond/tlos
+
+- kivai — interoperability platform layer
+  - https://github.com/tech4life-beyond/kivai
+
+---
+
+## Lifecycle Overview
 
 Every Tech4Life product follows this lifecycle:
 
@@ -32,7 +64,7 @@ Each step ensures safety, traceability, and licensing viability.
 
 ---
 
-# Step 1 — Idea
+## Step 1 — Idea
 
 Every product begins with a problem worth solving.
 
@@ -42,51 +74,38 @@ The idea must:
 - avoid harm
 - justify its existence
 
-Ideas alone do not create products.
+---
 
-Documentation creates products.
+## Step 2 — Product Pack (products repo)
+
+The Product Pack is the official documentation bundle stored in:
+
+- https://github.com/tech4life-beyond/products
+
+It provides:
+
+- traceable authorship
+- technical explanation
+- ethical evaluation
+- licensing readiness
 
 ---
 
-# Step 2 — Product Pack
+## Step 3 — Validation Pipeline
 
-The Product Pack is the official documentation bundle stored in the products repository.
+The Product Pack must pass automated validation from:
 
-Example structure:
+- https://github.com/tech4life-beyond/product-creation-pipeline
 
-```
-products/
-  product-name/
-    README.md
-    01-toil-registration/
-    02-technical-summary/
-    03-ethics-statement/
-    04-licensing-readiness/
-```
-
-This structure ensures ethical and technical clarity.
+The pipeline prevents incomplete packs from entering the ecosystem.
 
 ---
 
-# Step 3 — Validation Pipeline
+## Step 4 — Product Registry
 
-The product-creation-pipeline automatically validates Product Packs.
+Valid Product Packs are recorded in:
 
-It checks:
-
-- required folders exist
-- required files exist
-- structural integrity
-
-Invalid Product Packs cannot enter the system.
-
-This protects system quality.
-
----
-
-# Step 4 — Product Registry
-
-Valid Product Packs are recorded in the product-registry.
+- https://github.com/tech4life-beyond/product-registry
 
 The registry provides:
 
@@ -94,102 +113,52 @@ The registry provides:
 - traceable authorship
 - historical record
 
-The registry creates permanent attribution.
-
 ---
 
-# Step 5 — Prototype
+## Step 5 — Prototype
 
 A prototype validates real-world feasibility.
 
-Prototypes may use platforms such as:
+Prototype evidence belongs in the Product Pack under:
 
-- Raspberry Pi
-- ESP32
-- embedded systems
-- software systems
-
-Prototype evidence is documented in the Product Pack.
+```
+07-prototype-status/
+```
 
 ---
 
-# Step 6 — Licensing Readiness
+## Step 6 — Licensing Readiness
 
 A product becomes licensable when it has:
 
 - working prototype
 - clear documentation
-- ethical evaluation
-- defined partner alignment
-
-Licensing readiness creates trust.
+- ethical evaluation and mitigations
+- defined partner alignment (manufacturer / distributor / retailer)
 
 ---
 
-# Step 7 — Licensing Agreement
+## Step 7 — Licensing Agreement
 
-Tech4Life licenses products to:
+Tech4Life licenses products under TOIL governance.
 
-- manufacturers
-- distributors
-- retailers
+Licensing is governed by:
 
-Licensing agreements define:
-
-- rights
-- responsibilities
-- royalty structure
-
-This enables real-world deployment.
+- https://github.com/tech4life-beyond/toil
 
 ---
 
-# Step 8 — Product Deployment
+## Step 8 — Deployment
 
 The licensed partner manufactures and distributes the product.
 
 The product reaches the world.
 
-The creator's work becomes reality.
-
 ---
 
-# Creator Role in Lifecycle
-
-Creators:
-
-- build Product Packs
-- build prototypes
-- maintain documentation
-- evolve products
-
-Creation is documented stewardship.
-
----
-
-# Ethical Gate
+## Ethical Gate
 
 At any point, if harm risk is discovered, the product must be paused and redesigned.
 
 Ethics overrides progression.
 
----
-
-# System Integrity
-
-This lifecycle ensures:
-
-- ethical alignment
-- traceable authorship
-- licensing readiness
-- long-term ecosystem stability
-
----
-
-# Status
-
-This lifecycle is active.
-
-Tech4Life is operational.
-
-Products can now move from idea to reality.

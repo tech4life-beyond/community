@@ -1,14 +1,31 @@
 # How to Start — Tech4Life Contributor Quickstart
 
-Welcome to Tech4Life & Beyond.
-
-This guide explains exactly how to begin contributing safely and correctly inside the Tech4Life ecosystem.
+**Navigation**
+- [Home](index.md)
+- [How Products Work](how-products-work.md)
+- [How TOIL Works](how-toil-works.md)
 
 ---
 
-## Step 1 — Understand the Foundation
+Welcome to Tech4Life & Beyond.
 
-Before contributing, you must understand the core principles:
+This guide shows exactly how to begin contributing safely and correctly.
+
+---
+
+## Step 1 — Start from the Hub
+
+Your official entry point is:
+
+- https://tech4life-beyond.github.io/community/
+
+From the hub you can access all core repositories and onboarding docs.
+
+---
+
+## Step 2 — Understand the Foundation
+
+Before contributing, understand the core principles:
 
 - Technology must serve life
 - Ethical alignment is mandatory
@@ -19,7 +36,7 @@ Tech4Life is a responsibility ecosystem.
 
 ---
 
-## Step 2 — Choose Your Role
+## Step 3 — Choose Your Role
 
 You may begin as:
 
@@ -52,11 +69,13 @@ Architects protect long-term stability.
 
 ---
 
-## Step 3 — Learn the Product Pack System
+## Step 4 — Learn the Product Pack System
 
-All Tech4Life products exist as Product Packs inside the products repository.
+All Tech4Life products exist as Product Packs inside the **products** repository:
 
-Example structure:
+- https://github.com/tech4life-beyond/products
+
+Product Pack structure:
 
 ```
 products/
@@ -72,51 +91,34 @@ Product Packs make products traceable and licensable.
 
 ---
 
-## Step 4 — Contribute Through GitHub
+## Step 5 — Contribute Through Pull Requests
 
 Standard workflow:
 
-1. Fork or branch the repository
+1. Create a branch
 2. Make changes
 3. Commit with clear messages
 4. Open a Pull Request
 5. Ensure validation passes
 6. Merge when approved
 
-This preserves system integrity.
+---
+
+## Step 6 — Start with a Safe First Contribution
+
+Recommended first contributions:
+
+- fix typos or broken links in documentation
+- improve clarity in a Product Pack README
+- add missing documentation in optional folders
+
+If you want to create a new product, read:
+
+- [How Products Work](how-products-work.md)
 
 ---
 
-## Step 5 — Build or Improve a Product Pack
-
-You may:
-
-- improve an existing Product Pack
-- create a new Product Pack
-- improve documentation
-- contribute to prototypes
-
-All Product Packs must pass pipeline validation.
-
----
-
-## Step 6 — Prototype and Validate
-
-If creating a product:
-
-- build a prototype
-- test safely
-- document results
-
-Prototype evidence is stored in:
-
-```
-07-prototype-status/
-```
-
----
-
-## Step 7 — Maintain Ethical Alignment
+## Step 7 — Ethics First
 
 Mandatory rule:
 
@@ -124,20 +126,14 @@ If a product creates harm, it must not be created.
 
 Ethics overrides speed.
 
-Ethics protects the ecosystem.
-
 ---
 
 ## Step 8 — Continue Learning
 
-Next recommended topics:
+Next pages:
 
-- Product Pack Method
-- Licensing readiness
-- Product Cell operations
-- KIVAI platform integration (optional)
-
-These topics enable full participation.
+- [How Products Work](how-products-work.md)
+- [How TOIL Works](how-toil-works.md)
 
 ---
 
@@ -146,4 +142,3 @@ These topics enable full participation.
 You are now ready to begin contributing.
 
 Creation begins with responsibility.
-
