@@ -26,5 +26,4 @@ jobs:
             --verbose
             --no-progress
             --format markdown
-            --output lychee-report.md
             **/*.md
