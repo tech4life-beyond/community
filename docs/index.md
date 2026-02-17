@@ -1,19 +1,29 @@
 # Tech4Life & Beyond — Creator Onboarding Portal
 
-**Official onboarding portal for creators, engineers, architects, and contributors.**
+**Official entry hub for creators, engineers, architects, and contributors.**
 
-Tech4Life & Beyond is a structured ecosystem for creating ethical, licensable technologies that serve life.
-
-This portal explains:
-
-- what Tech4Life is
-- how products are created
-- how licensing works
-- how you can participate
+**Navigation**
+- [How to Start](how-to-start.md)
+- [How Products Work](how-products-work.md)
+- [How TOIL Works](how-toil-works.md)
 
 ---
 
-# Mission
+## Welcome
+
+Tech4Life & Beyond is a structured ecosystem for creating ethical, licensable technologies that serve life.
+
+This portal is the **central entry point** to understand:
+
+- what Tech4Life is
+- how products are created and validated
+- how licensing works under TOIL
+- where each repository lives
+- how to join and contribute
+
+---
+
+## Mission
 
 Tech4Life exists to create technologies that:
 
@@ -26,9 +36,9 @@ Technology must serve life — not exploit it.
 
 ---
 
-# How Tech4Life Works
+## How Tech4Life Works
 
-Tech4Life operates through a structured creation pipeline:
+Tech4Life operates through a structured creation lifecycle:
 
 ```
 Idea
@@ -52,95 +62,59 @@ Each step ensures ethical alignment, technical clarity, and licensing readiness.
 
 ---
 
-# Core Components
+## Core Repositories (Public)
 
-## Product Packs
+These repositories form the operational foundation of Tech4Life.
 
-Product Packs are structured documentation bundles that define a product.
+- **community** — This portal and collaboration framework
+  - https://github.com/tech4life-beyond/community
 
-They ensure:
+- **products** — Product Packs (the products themselves)
+  - https://github.com/tech4life-beyond/products
 
-- traceable authorship
-- ethical accountability
-- licensing readiness
+- **product-creation-pipeline** — Product Pack validation rules and CI
+  - https://github.com/tech4life-beyond/product-creation-pipeline
 
-Location:
+- **product-registry** — Canonical registry index and exports
+  - https://github.com/tech4life-beyond/product-registry
 
-```
-products/
-```
+- **kivai** — Interoperability gateway and intent routing layer
+  - https://github.com/tech4life-beyond/kivai
 
----
+- **toil** — Tech4Life Open Impact License (TOIL)
+  - https://github.com/tech4life-beyond/toil
 
-## Product Creation Pipeline
-
-The pipeline validates Product Packs automatically.
-
-This ensures structural integrity and prevents incomplete products from entering the registry.
-
----
-
-## Product Registry
-
-The registry provides a canonical index of all products.
-
-It preserves creation history and licensing traceability.
+- **tlos** — Tech4Life OS principles and structural governance
+  - https://github.com/tech4life-beyond/tlos
 
 ---
 
-## TOIL — Tech4Life Open Impact License
+## Internal Repositories (Restricted Access)
 
-TOIL governs how products are shared and licensed.
+These repositories exist for internal operations. Access is restricted.
 
-Principles:
+- **armanu-curriculum** — Internal training operating system (restricted)
 
-- Ethical use is open
-- Commercial use requires licensing
-- Creators are recognized
-- Contribution history is preserved
-
----
-
-# Roles Inside Tech4Life
-
-## Creator
-
-Creates and evolves products.
-
-## Architect
-
-Maintains structural clarity and system integrity.
-
-## Contributor
-
-Supports development, documentation, or testing.
+- **legal-private** — Legal templates and licensing documents (restricted)
+ 
+- **finance-private** — Financial operations and royalty admin (restricted)
+ 
+ To request access, start from:
+- https://tech4life-beyond.github.io/community/
 
 ---
 
-# How to Start
+## Start Here
 
-Start here:
+1) Read: [How to Start](how-to-start.md)
 
-→ [How to Start](how-to-start.md)
+2) Learn the lifecycle: [How Products Work](how-products-work.md)
 
----
-
-# Ecosystem Repositories
-
-Core repositories:
-
-- products
-- product-registry
-- product-creation-pipeline
-- kivai
-- community
-- toil
-
-These repositories form the operational core of Tech4Life.
+3) Understand licensing: [How TOIL Works](how-toil-works.md)
 
 ---
 
-# Ethical Principle
+## Ethical Principle
 
 If a product creates harm, it must not be created.
 
@@ -148,11 +122,10 @@ Ethics is the foundation of Tech4Life.
 
 ---
 
-# Status
+## Status
 
 This portal is active.
 
 Tech4Life is operational.
 
 Creation can begin.
-

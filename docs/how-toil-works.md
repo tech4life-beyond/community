@@ -1,6 +1,13 @@
 # How TOIL Works — Tech4Life Open Impact License Overview
 
-This document explains the purpose and operational model of the Tech4Life Open Impact License (TOIL).
+**Navigation**
+- [Home](index.md)
+- [How to Start](how-to-start.md)
+- [How Products Work](how-products-work.md)
+
+---
+
+This page explains the purpose and operational model of the Tech4Life Open Impact License (TOIL).
 
 TOIL governs how Tech4Life products are shared, used, and licensed.
 
@@ -8,7 +15,15 @@ It protects creators while ensuring technology serves life.
 
 ---
 
-# Purpose of TOIL
+## Where TOIL Lives
+
+The canonical TOIL license repository:
+
+- https://github.com/tech4life-beyond/toil
+
+---
+
+## Purpose of TOIL
 
 TOIL exists to balance:
 
@@ -16,13 +31,11 @@ TOIL exists to balance:
 - creator protection
 - responsible commercialization
 
-TOIL ensures that technology remains aligned with life-serving principles.
-
 ---
 
-# Core Principles
+## Core Principles
 
-## Ethical Use is Open
+### 1) Ethical Use is Open
 
 Anyone may study, learn from, and ethically use Tech4Life product designs.
 
@@ -30,89 +43,73 @@ Knowledge should remain accessible.
 
 ---
 
-## Commercial Distribution Requires Licensing
+### 2) Commercial Distribution Requires Licensing
 
 Commercial manufacturing, distribution, or retail requires a licensing agreement.
 
-This ensures:
+This enables:
 
 - creator protection
 - ethical oversight
 - product integrity
 
-Licensing enables responsible scaling.
-
 ---
 
-## Creator Attribution is Permanent
+### 3) Creator Attribution is Permanent
 
-TOIL preserves creator attribution.
+TOIL preserves attribution through:
 
-Authorship history is documented through:
+- Product Packs (products repo)
+  - https://github.com/tech4life-beyond/products
 
-- Product Packs
-- Git history
-- Product Registry
+- Product Registry (canonical index)
+  - https://github.com/tech4life-beyond/product-registry
+
+- Git history (timestamped authorship)
 
 Authorship cannot be erased.
 
 ---
 
-## Ethical Restrictions Apply
+### 4) Ethical Restrictions Apply
 
 Products must not be used to create harm.
 
-Prohibited uses include:
+Prohibited categories include:
 
 - weaponization
 - surveillance without consent
 - environmental harm
 - systems designed for exploitation
 
-Ethical alignment is mandatory.
-
 ---
 
-# How Licensing Works
+## How Licensing Works (High Level)
 
 When a company wants to manufacture or distribute a Tech4Life product:
 
-1. They request licensing
-2. Tech4Life reviews alignment
+1. Licensing inquiry is submitted
+2. Tech4Life reviews alignment and fit
 3. A licensing agreement is established
 4. The partner manufactures and distributes the product
 
-This ensures responsible deployment.
+Exact financial terms are defined in private licensing agreements.
 
 ---
 
-# Why TOIL Exists
-
-Traditional systems often separate creators from their creations.
-
-TOIL preserves the connection between creators and their work.
-
-It ensures:
-
-- attribution integrity
-- ethical continuity
-- responsible scaling
-
----
-
-# Relationship to GitHub
+## Relationship to GitHub
 
 GitHub provides:
 
 - timestamped authorship record
 - transparent contribution history
-- verifiable creation traceability
+- verifiable traceability
 
-This strengthens TOIL protection.
+This strengthens long-term trust.
 
 ---
 
-# Summary
+## Summary
 
 TOIL ensures that:
 
@@ -120,11 +117,3 @@ TOIL ensures that:
 - creators remain protected
 - licensing remains ethical
 - products serve life
-
----
-
-# Status
-
-TOIL is active and governs Tech4Life products.
-
-It enables ethical innovation at global scale.
