@@ -94,13 +94,13 @@ These repositories form the operational foundation of Tech4Life.
 These repositories exist for internal operations. Access is restricted.
 
 - **armanu-curriculum** — Internal training operating system (restricted)
-  - https://github.com/tech4life-beyond/armanu-curriculum
 
 - **legal-private** — Legal templates and licensing documents (restricted)
-  - https://github.com/tech4life-beyond/legal-private
-
+ 
 - **finance-private** — Financial operations and royalty admin (restricted)
-  - https://github.com/tech4life-beyond/finance-private
+ 
+ To request access, start from:
+- https://tech4life-beyond.github.io/community/
 
 ---
 
