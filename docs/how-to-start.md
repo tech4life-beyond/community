@@ -17,7 +17,7 @@ This guide shows exactly how to begin contributing safely and correctly.
 
 Your official entry point is:
 
-- https://tech4life-beyond.github.io/community/
+- [tech4life-beyond.github.io/community](https://tech4life-beyond.github.io/community/)
 
 From the hub you can access all core repositories and onboarding docs.
 
@@ -69,11 +69,23 @@ Architects protect long-term stability.
 
 ---
 
-## Step 4 — Learn the Product Pack System
+## Step 4 — IP / Patent Check (Required)
+
+Before investing significant work on a new product concept:
+
+- search for existing patents and protected IP
+- document your findings in the Product Pack
+- if the core concept is already patented by a third party, it **cannot be licensed under TOIL** unless rights/permission are obtained
+
+Architects must confirm **licensability** before a product is marked licensing-ready.
+
+---
+
+## Step 5 — Learn the Product Pack System
 
 All Tech4Life products exist as Product Packs inside the **products** repository:
 
-- https://github.com/tech4life-beyond/products
+- [github.com/tech4life-beyond/products](https://github.com/tech4life-beyond/products)
 
 Product Pack structure:
 
@@ -91,7 +103,7 @@ Product Packs make products traceable and licensable.
 
 ---
 
-## Step 5 — Contribute Through Pull Requests
+## Step 6 — Contribute Through Pull Requests
 
 Standard workflow:
 
@@ -104,7 +116,7 @@ Standard workflow:
 
 ---
 
-## Step 6 — Start with a Safe First Contribution
+## Step 7 — Start with a Safe First Contribution
 
 Recommended first contributions:
 
@@ -118,7 +130,7 @@ If you want to create a new product, read:
 
 ---
 
-## Step 7 — Ethics First
+## Step 8 — Ethics First
 
 Mandatory rule:
 
@@ -128,7 +140,7 @@ Ethics overrides speed.
 
 ---
 
-## Step 8 — Continue Learning
+## Step 9 — Continue Learning
 
 Next pages:
 
@@ -142,3 +154,4 @@ Next pages:
 You are now ready to begin contributing.
 
 Creation begins with responsibility.
+

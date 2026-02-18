@@ -19,7 +19,7 @@ It protects creators while ensuring technology serves life.
 
 The canonical TOIL license repository:
 
-- https://github.com/tech4life-beyond/toil
+- [github.com/tech4life-beyond/toil](https://github.com/tech4life-beyond/toil)
 
 ---
 
@@ -59,11 +59,11 @@ This enables:
 
 TOIL preserves attribution through:
 
-- Product Packs (products repo)
-  - https://github.com/tech4life-beyond/products
+- Product Packs (products repo)  
+  [github.com/tech4life-beyond/products](https://github.com/tech4life-beyond/products)
 
-- Product Registry (canonical index)
-  - https://github.com/tech4life-beyond/product-registry
+- Product Registry (canonical index)  
+  [github.com/tech4life-beyond/product-registry](https://github.com/tech4life-beyond/product-registry)
 
 - Git history (timestamped authorship)
 
@@ -81,6 +81,16 @@ Prohibited categories include:
 - surveillance without consent
 - environmental harm
 - systems designed for exploitation
+
+---
+
+## IP / Patents (Important)
+
+TOIL licensing requires that a product is legally safe to license.
+
+If a core concept is already patented by a third party, it **cannot be licensed under TOIL** unless rights/permission are obtained.
+
+Product Cells must document an IP/patent check before licensing readiness.
 
 ---
 
@@ -117,3 +127,4 @@ TOIL ensures that:
 - creators remain protected
 - licensing remains ethical
 - products serve life
+

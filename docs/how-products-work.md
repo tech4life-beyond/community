@@ -15,26 +15,38 @@ This page explains how Tech4Life transforms ideas into licensable, ethical, real
 
 Core repositories:
 
-- community — portal and collaboration
-  - https://github.com/tech4life-beyond/community
+- community — portal and collaboration  
+  [github.com/tech4life-beyond/community](https://github.com/tech4life-beyond/community)
 
-- products — Product Packs
-  - https://github.com/tech4life-beyond/products
+- products — Product Packs  
+  [github.com/tech4life-beyond/products](https://github.com/tech4life-beyond/products)
 
-- product-creation-pipeline — pack validation
-  - https://github.com/tech4life-beyond/product-creation-pipeline
+- product-creation-pipeline — pack validation  
+  [github.com/tech4life-beyond/product-creation-pipeline](https://github.com/tech4life-beyond/product-creation-pipeline)
 
-- product-registry — canonical product index
-  - https://github.com/tech4life-beyond/product-registry
+- product-registry — canonical product index  
+  [github.com/tech4life-beyond/product-registry](https://github.com/tech4life-beyond/product-registry)
 
-- toil — license standard
-  - https://github.com/tech4life-beyond/toil
+- toil — license standard  
+  [github.com/tech4life-beyond/toil](https://github.com/tech4life-beyond/toil)
 
-- tlos — OS principles and governance
-  - https://github.com/tech4life-beyond/tlos
+- tlos — OS principles and governance  
+  [github.com/tech4life-beyond/tlos](https://github.com/tech4life-beyond/tlos)
 
-- kivai — interoperability platform layer
-  - https://github.com/tech4life-beyond/kivai
+- kivai — interoperability platform layer  
+  [github.com/tech4life-beyond/kivai](https://github.com/tech4life-beyond/kivai)
+
+---
+
+## IP / Patent Check (Required)
+
+Before investing significant work on a new product concept:
+
+- search for existing patents and protected IP
+- document findings in the Product Pack
+- if the core concept is already patented by a third party, the product **cannot be licensed under TOIL** unless rights/permission are obtained
+
+Architect review is required before a product becomes licensing-ready.
 
 ---
 
@@ -80,7 +92,7 @@ The idea must:
 
 The Product Pack is the official documentation bundle stored in:
 
-- https://github.com/tech4life-beyond/products
+- [github.com/tech4life-beyond/products](https://github.com/tech4life-beyond/products)
 
 It provides:
 
@@ -95,7 +107,7 @@ It provides:
 
 The Product Pack must pass automated validation from:
 
-- https://github.com/tech4life-beyond/product-creation-pipeline
+- [github.com/tech4life-beyond/product-creation-pipeline](https://github.com/tech4life-beyond/product-creation-pipeline)
 
 The pipeline prevents incomplete packs from entering the ecosystem.
 
@@ -105,7 +117,7 @@ The pipeline prevents incomplete packs from entering the ecosystem.
 
 Valid Product Packs are recorded in:
 
-- https://github.com/tech4life-beyond/product-registry
+- [github.com/tech4life-beyond/product-registry](https://github.com/tech4life-beyond/product-registry)
 
 The registry provides:
 
@@ -134,6 +146,7 @@ A product becomes licensable when it has:
 - working prototype
 - clear documentation
 - ethical evaluation and mitigations
+- documented IP/patent check
 - defined partner alignment (manufacturer / distributor / retailer)
 
 ---
@@ -144,7 +157,7 @@ Tech4Life licenses products under TOIL governance.
 
 Licensing is governed by:
 
-- https://github.com/tech4life-beyond/toil
+- [github.com/tech4life-beyond/toil](https://github.com/tech4life-beyond/toil)
 
 ---
 
